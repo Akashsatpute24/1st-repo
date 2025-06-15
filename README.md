@@ -1,4 +1,4 @@
 # 1st-repo
 This is my first Git repository
 <br>
-Author - Akash Satpute
+Author - Akash Satpute (NBHS)
